@@ -1,0 +1,12 @@
+-----List Methods-----
+list.append() -> adds one element at the end
+list.sort() -> sorts in ascending order
+list.sort(reverse=True) -> sorts in descending order
+list.reverse()-> reverse list
+list.insert(idx,el)-> insert elemen at index
+list.remove(element)-> removes first occurrance of element(eg if list contain two 3 it remove one of them)
+list.pop(idx)-> remove element at idx
+
+------tuple method-----
+tup.index(el)-> returns the index of first occurrance
+tup.count(el)-> counts total occurrance
